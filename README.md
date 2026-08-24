@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Math
@@ -39,14 +40,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 ## Sorting
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
+| [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
