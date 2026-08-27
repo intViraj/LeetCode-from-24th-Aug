@@ -42,11 +42,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0355-design-twitter](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -61,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sliding Window
 |  |
 | ------- |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0355-design-twitter](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0355-design-twitter) |
+## Enumeration
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
