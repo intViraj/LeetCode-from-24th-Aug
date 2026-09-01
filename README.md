@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
+| [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0295-find-median-from-data-stream) |
+| [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
 |  |
@@ -138,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
