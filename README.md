@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0860-lemonade-change) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
+| [0860-lemonade-change](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0860-lemonade-change) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
