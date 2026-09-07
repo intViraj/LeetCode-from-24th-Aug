@@ -24,12 +24,12 @@ class Solution {
     public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> ans=new ArrayList<>();
 
-        if(root==null)return ans;
+        // if(root==null)return ans;
 
-        ans.addAll(inorderTraversal(root.left));
-        ans.add(root.val);
-        ans.addAll(inorderTraversal(root.right));
-        // inorder(root,ans);
+        // ans.addAll(inorderTraversal(root.left));
+        // ans.add(root.val);
+        // ans.addAll(inorderTraversal(root.right));
+        inorder(root,ans);
         return ans;
     }
 }
