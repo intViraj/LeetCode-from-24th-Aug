@@ -21,15 +21,36 @@ class Solution {
     //     preorder(root.right,ans);
     //     return;
     // }
-    public List<Integer> preorderTraversal(TreeNode root) {
-        List<Integer> ans = new ArrayList<>();
-        if (root == null) {
-            return ans;
+    public List<Integer> iterative(TreeNode root){
+        Stack<TreeNode> stk=new Stack<>();
+        List<Integer> pre=new ArrayList<>();
+        if(root==null)return pre;
+        stk.push(root);
+        while(!stk.isEmpty()){
+            TreeNode curr=stk.pop();
+            pre.add(curr.val);
+
+            if(curr.right!=null){
+                stk.push(curr.right);
+            }
+
+            if(curr.left!=null){
+                stk.push(curr.left);
+            }
         }
-        ans.add(root.val);
-        ans.addAll(preorderTraversal(root.left));
-        ans.addAll(preorderTraversal(root.right));
-        // preorder(root,ans);
-        return ans;
+        return pre;
+    }
+    public List<Integer> preorderTraversal(TreeNode root) {
+        // List<Integer> ans = new ArrayList<>();
+        // if (root == null) {
+        //     return ans;
+        // }
+        // ans.add(root.val);
+        // ans.addAll(preorderTraversal(root.left));
+        // ans.addAll(preorderTraversal(root.right));
+        // // preorder(root,ans);
+        // return ans;
+
+        return iterative(root);
     }
 }
