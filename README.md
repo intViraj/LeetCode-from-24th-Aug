@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0135-candy](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0135-candy) |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0435-non-overlapping-intervals) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0355-design-twitter) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0144-binary-tree-preorder-traversal) |
@@ -189,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0144-binary-tree-preorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0144-binary-tree-preorder-traversal) |
@@ -211,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
 ## Bucket Sort
 |  |
