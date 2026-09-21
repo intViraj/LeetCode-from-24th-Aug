@@ -15,8 +15,8 @@
  */
 class Solution {
     public TreeNode successor(TreeNode root){
-        while(root.left!=null){
-            root=root.left;
+        while(root.right!=null){
+            root=root.right;
         }
         return root;
     }
@@ -38,10 +38,10 @@ class Solution {
                 return root.right;
             }
             else{
-                TreeNode replace=successor(root.right);
                 // TreeNode replace=successor(root.right);
+                TreeNode replace=successor(root.left);
                 root.val=replace.val;
-                root.right=deleteNode(root.right,replace.val);
+                root.left=deleteNode(root.left,replace.val);
             }
         }
         return root;
