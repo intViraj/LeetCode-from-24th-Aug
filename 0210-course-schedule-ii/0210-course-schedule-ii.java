@@ -1,13 +1,20 @@
 class Solution {
-    public void DFS(int numCourses,ArrayList<ArrayList<Integer>> graph,int start,boolean[]visited,Stack<Integer> stk){
+    public boolean DFS(int numCourses,ArrayList<ArrayList<Integer>> graph,int start,boolean[]visited,Stack<Integer> stk,boolean[]recstack){
         visited[start]=true;
+        recstack[start]=true;
         for(int i=0;i<graph.get(start).size();i++){
             int neighbour=graph.get(start).get(i);
-            if(!visited[neighbour]){
-                DFS(numCourses,graph,neighbour,visited,stk);
+            if(recstack[neighbour]){
+                return true;
+            }else if(!visited[neighbour]){
+                if(DFS(numCourses,graph,neighbour,visited,stk,recstack)){
+                    return true;
+                }
             }
         }
         stk.push(start);
+        recstack[start]=false;
+        return false;
     }
     public int[] BFS(int numCourses,ArrayList<ArrayList<Integer>> graph,boolean[]visited,int[]indegree){
         int []result=new int [numCourses];
@@ -59,16 +66,20 @@ class Solution {
 
         int idx=0;
         Stack<Integer> stk=new Stack<>();
-        // for(int i=0;i<numCourses;i++){
-        //     if(!visited[prerequisites[i][1]]){
-        //         // DFS(numCourses,graph,i,visited,stk);
-        //     }
-        // }
-        result=BFS(numCourses,graph,visited,indegree);
+        boolean isCycle=false;
+        boolean[] recstack=new boolean[numCourses];
+        for(int i=0;i<numCourses;i++){
+            if(isCycle)return new int[0];
+            if(!visited[i]){
+                isCycle=DFS(numCourses,graph,i,visited,stk,recstack);
+            }
+        }
+
+        // result=BFS(numCourses,graph,visited,indegree);
         
-        // while(!stk.isEmpty()){
-        //     result[idx++]=stk.pop();
-        // }
+        while(!stk.isEmpty()){
+            result[idx++]=stk.pop();
+        }
         return result;
     }
 }
