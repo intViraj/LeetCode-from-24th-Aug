@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0860-lemonade-change) |
+| [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0678-valid-parenthesis-string) |
+| [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0210-course-schedule-ii) |
+| [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 ## Topological Sort
 |  |
 | ------- |
