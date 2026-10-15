@@ -44,10 +44,11 @@ class Solution {
             components.put(currparent,components.getOrDefault(currparent,0)+1);
         }
         long sum = 0;
-        long prefixSum = 0;
+        long remain=n;
         for(Map.Entry<Integer,Integer> entry : components.entrySet()){
-            sum += prefixSum * entry.getValue();;
-            prefixSum += entry.getValue();;
+            long curr=1L*entry.getValue()*(remain-entry.getValue());
+            sum += curr;
+            remain-=entry.getValue();
         }
         return sum;
     }
