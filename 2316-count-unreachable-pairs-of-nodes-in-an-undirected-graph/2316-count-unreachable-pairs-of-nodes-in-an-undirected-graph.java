@@ -29,7 +29,7 @@ class Solution {
         for(int i=0;i<n;i++){
             parent[i]=i;
         }
-        HashMap<Integer,ArrayList<Integer>> components=new HashMap<>();
+        HashMap<Integer,Integer> components=new HashMap<>();
         for(int [] i : edges){
             int parent_u=find(i[0],parent);
             int parent_v=find(i[1],parent);
@@ -41,19 +41,13 @@ class Solution {
         }
         for(int i=0;i<n;i++){
             int currparent=find(i,parent);
-            components.computeIfAbsent(currparent,K-> new ArrayList<>()).add(i);
-        }
-        int [] comp_ele=new int[components.size()];
-        int idx=0;
-        for(Map.Entry<Integer,ArrayList<Integer>> entry : components.entrySet()){
-            comp_ele[idx++]=entry.getValue().size();
+            components.put(currparent,components.getOrDefault(currparent,0)+1);
         }
         long sum = 0;
         long prefixSum = 0;
-
-        for (int i = 0; i < components.size(); i++) {
-            sum += prefixSum * comp_ele[i];
-            prefixSum += comp_ele[i];
+        for(Map.Entry<Integer,Integer> entry : components.entrySet()){
+            sum += prefixSum * entry.getValue();;
+            prefixSum += entry.getValue();;
         }
         return sum;
     }
