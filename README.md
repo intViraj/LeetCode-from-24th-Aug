@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
 |  |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0210-course-schedule-ii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
+| [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
 | ------- |
