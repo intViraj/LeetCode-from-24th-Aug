@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
 | [0860-lemonade-change](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0860-lemonade-change) |
 | [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -315,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0743-network-delay-time](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0743-network-delay-time) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## DP on Trees
@@ -364,4 +366,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0743-network-delay-time) |
+## Matrix
+|  |
+| ------- |
+| [1091-shortest-path-in-binary-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1091-shortest-path-in-binary-matrix) |
 <!---LeetCode Topics End-->
