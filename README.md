@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1584-min-cost-to-connect-all-points](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1631-path-with-minimum-effort) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3875-construct-uniform-parity-array-i) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1631-path-with-minimum-effort](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1631-path-with-minimum-effort) |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Breadth-First Search
 |  |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0990-satisfiability-of-equality-equations](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0990-satisfiability-of-equality-equations) |
 | [1319-number-of-operations-to-make-network-connected](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1319-number-of-operations-to-make-network-connected) |
 | [1584-min-cost-to-connect-all-points](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1584-min-cost-to-connect-all-points) |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 ## Topological Sort
 |  |
@@ -397,4 +400,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1584-min-cost-to-connect-all-points) |
+## Eulerian Circuit
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
+## Eulerian Path
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
+## Semi-Eulerian Graph
+|  |
+| ------- |
+| [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 <!---LeetCode Topics End-->
