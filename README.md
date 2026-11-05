@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3875-construct-uniform-parity-array-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3903-smallest-stable-index-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0703-kth-largest-element-in-a-stream](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0743-network-delay-time](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0743-network-delay-time) |
 | [1631-path-with-minimum-effort](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1631-path-with-minimum-effort) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1765-map-of-highest-peak](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1765-map-of-highest-peak) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## DP on Trees
 |  |
 | ------- |
@@ -369,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2097-valid-arrangement-of-pairs](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2097-valid-arrangement-of-pairs) |
 | [2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/2316-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
 | [3203-find-minimum-diameter-after-merging-two-trees](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3203-find-minimum-diameter-after-merging-two-trees) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Topological Sort
 |  |
 | ------- |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0743-network-delay-time) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
@@ -394,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1631-path-with-minimum-effort](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1631-path-with-minimum-effort) |
 | [1765-map-of-highest-peak](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1765-map-of-highest-peak) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
