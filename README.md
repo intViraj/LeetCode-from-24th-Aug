@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0455-assign-cookies) |
+| [0542-01-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0621-task-scheduler) |
 | [0733-flood-fill](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0733-flood-fill) |
 | [0846-hand-of-straights](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0846-hand-of-straights) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0435-non-overlapping-intervals](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0678-valid-parenthesis-string) |
 | [1872-stone-game-viii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1872-stone-game-viii) |
 ## Minimax
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0210-course-schedule-ii) |
+| [0542-01-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0733-flood-fill) |
@@ -407,6 +410,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/intViraj/LeetCode-from-24th-Aug/tree/master/1020-number-of-enclaves) |
